@@ -12,13 +12,13 @@ Dataset yang digunakan berisi informasi demografis, detail perjalanan, produk as
 
 ## Stakeholder
 
-* Investor
+* **Investor:**
   Mengevaluasi keberlanjutan dan profitabilitas perusahaan.
-* **Manajemen Perusahaan Asuransi**
+* **Manajemen Perusahaan Asuransi:**
   Mengambil keputusan strategis terkait risiko dan premi.
-* **Tim Underwriting & Risk Management**
+* **Tim Underwriting & Risk Management:**
   Mengidentifikasi polis berisiko tinggi sejak awal.
-* **Tim Data / Analytics**
+* **Tim Data / Analytics:**
   Mengembangkan dan memelihara model prediksi klaim.
 
 ---
