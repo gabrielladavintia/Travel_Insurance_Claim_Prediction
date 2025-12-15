@@ -12,7 +12,7 @@ Dataset yang digunakan berisi informasi demografis, detail perjalanan, produk as
 
 ## Stakeholder
 
-* **Investor
+* Investor
   Mengevaluasi keberlanjutan dan profitabilitas perusahaan.
 * **Manajemen Perusahaan Asuransi**
   Mengambil keputusan strategis terkait risiko dan premi.
